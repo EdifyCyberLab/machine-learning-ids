@@ -191,3 +191,8 @@ This project is intended for education, authorized testing, and portfolio demons
 1. [UNSW-NB15 Dataset — UNSW Canberra Cyber](https://research.unsw.edu.au/projects/unsw-nb15-dataset)
 2. [Scikit-learn Random Forest Classifier Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)
 3. [Streamlit Documentation](https://docs.streamlit.io/)
+## Screenshots
+
+### IDS Dashboard
+
+![Machine Learning IDS dashboard](screenshots/dashboard-overview.png)
